@@ -1,0 +1,78 @@
+html {
+    background-image: url("../img/snow-background.jpg");
+    background-position: center;
+}
+
+.headerone {
+    font-family: 'Cuprum', sans-serif;
+    font-size: 40px;
+    text-align: center;
+}
+
+.headertwo {
+    font-family: 'Cuprum', sans-serif;
+}
+
+.italic {
+    font-family: 'Caveat', cursive;
+    font-size: 23px;
+    text-align: center;
+}
+
+.text {
+    font-family: 'Comfortaa', cursive;
+}
+
+.text__precautions{
+    font-family: 'Comfortaa', cursive;
+    padding: 0 70px 0;
+}
+
+.strong {
+    font-family: 'Cuprum', sans-serif;
+    font-size: 25px;
+}
+
+.link {
+    text-decoration: none;
+    color: black;
+}
+
+.link:hover {
+    text-decoration: underline;
+    color: deepskyblue;
+}
+
+.img__right {
+    padding: 15px 5px 15px;
+    border-radius: 50px;
+    float: right;
+}
+
+.img__left {
+    padding: 15px 5px 15px;
+    border-radius: 50px;
+    float: left;
+}
+
+.button__img__right {
+    float: right;
+    padding: 0 50px 50px;
+}
+
+.button__img__left {
+    float: left;
+    padding: 0 50px 50px;
+}
+
+.video {
+    width: 100%;
+    height: 315px;
+    border: none;
+}
+
+.map {
+    width: 100%;
+    height: 450px;
+    border: none;
+}
